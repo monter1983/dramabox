@@ -11,7 +11,7 @@ Supported platforms:
 - And many more coming soon
 
 Test our bot:
-@reeliowatchbot
+t.me/reeliowatchbot
 
 Admin contact:
 @reelshortadm
